@@ -636,7 +636,7 @@ This assignment successfully demonstrates the implementation and optimization of
 
 
 
-**Repository:** https://github.com/rk-vashista/DL-Assignment
+**Repository:** https://github.com/hariniv/DL-Assignment
 
 ---
 
